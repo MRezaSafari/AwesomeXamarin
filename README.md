@@ -1,3 +1,3 @@
 ## Categories
 
-[Dialogs](Dialogs.md)
+[Dialogs](Categories/Dialogs)
