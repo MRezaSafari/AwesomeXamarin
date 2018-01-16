@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: post
 ---
 
 ## Categories
