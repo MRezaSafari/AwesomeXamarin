@@ -1,1 +1,73 @@
-theme: jekyll-theme-leap-day
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4464" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: وبلاگ محمد رضا صفری
+  avatar: avatar.png
+  gravatar: 0a1ed0dcb99ed9d09e9e424eadbef1e3
+  description: "محمد رضا صفری, وبلاگ شخصی محمد رضا صفری, آموزش c#, محمد صفری, دات نت, mvc"
+
+  # Header and footer text
+  header_text: >
+     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p><p><small>مدیر بخش تحقیق و توسعه شرکت داده پردازی فراتک</small></p>
+     
+  header_text_feature_image:
+  footer_text: >
+   با قدرت <a href="http://jekyllrb.com">Jekyll</a> و میزبانی <a href="https://github.com">github</a>
+   <p>کپی مطالب بدون ذکر منبع هم بلامانع است</p>
+
+  # Icons
+  rss: true
+  email_address: safary.mr@outlook.com
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "rsafari"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: 
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: false # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "دنبال کنید"
+  str_rss_follow: "فید"
+  str_email: "ایمیل"
+  str_next: "بعدی"
+  str_prev: "قبلی"
+  str_continue_reading: "ادامه مطلب ..."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: true
+
+# PAGINATION
+paginate: 10
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed

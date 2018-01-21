@@ -1,0 +1,21 @@
+
+	<script type="text/javascript">
+		var _mr = _mr || {};
+		_mr.sid = 2715;
+		_mr.clk = true;
+		(function() {
+			var mr = document.createElement('script'); mr.type = 'text/javascript'; mr.async = true;
+			mr.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 's.moror.ir/mr.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mr, s);
+		})();
+	</script>
+	
+{% if site.theme.katex %}
+<script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
+{% if site.theme.footer_text %}
+<footer class="site-footer">
+	<p class="text">{{ site.theme.footer_text }}</p>
+</footer>
+{% endif %}

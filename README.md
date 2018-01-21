@@ -1,3 +1,1 @@
-## Categories
-
-[Dialogs](Categories/Dialogs)
+this is my blog

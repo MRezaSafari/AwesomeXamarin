@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "لینک های مفید - شماره 1"
+date:   2014-08-01 18:25:23
+categories:  tools
+---
+
+لیست لینک های مفید شماره 1 رو می تونید در ادامه مطلب ببینید.
+
+1. [یک سرویس ایرانی خوب برای مرور ، بررسی و آنالیز سایت ( نقشه حرارتی هم داره ! )](http://moror.ir/)
+2. [یک راهنمای خوب برای کسانی که میخوان شروع کنن برای پروژه هاشون document ایجاد کنند](http://docs.writethedocs.org/writing/beginners-guide-to-docs/)
+3. [فایل های PSD منتشر شده توسط Apple از تمام محصولاتش](https://developer.apple.com//app-store/marketing/guidelines/#images)
+4. ۵ [کاری که اصلا نباید سر کار انجام دهید !](https://www.linkedin.com/today/post/article/20140915121120-17850276-the-top-5-things-you-should-never-do-at-work)
+5. [کامپایل خودکار یک پروژه برای دو فریم ورک](http://www.dotnettips.info/post/1872/%DA%A9%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%84-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-%DB%8C%DA%A9-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9)
+6. [یکسری Gradient بسیار زیبا که با CSS ایجاد شده که می تونید توی کارهاتون استفاده کنید](http://uigradients.com/) 
+7. [یک پلاگین jQuery برای ایجاد صفحات قفل مثل آندروید](http://ignitersworld.com/lab/patternLock.html)
+8. [راه ساده تر برای یادگیری AngularJs](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
+9. [عکس هایی با کیفیت بالا و کاملا رایگان برای استفاده در همه جا !](http://unsplash.com/)
+10. [ساخت بک برنامه چت توسط : Node-webkit , Firebase , AngualrJs](http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/?utm_medium=email&utm_campaign=SitePoint%20JavaScript%20Newsletter%20-%208%20September%202014&utm_content=SitePoint%20JavaScript%20Newsletter%20-%208%20September%202014%20CID_abd6f6ca7f4fe8866a30766da7a0544a&utm_source=CampaignMonitor&utm_term=Building%20a%20Chat%20App%20with%20node-webkit%20Firebase%20and%20AngularJS)
+ 

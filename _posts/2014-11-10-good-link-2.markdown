@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "لینک های مفید - شماره 2"
+date:   2014-11-10 18:25:23
+categories:  tools
+---
+
+لیست لینک های مفید شماره 2 رو می تونید در ادامه مطلب ببینید.
+
+1. [باید ها و نباید ها MVC](http://curah.microsoft.com/198908/aspnet-mvc-dos-and-donts-best-practices)
+2. [بازی با bezier](http://bezier.method.ac/#)
+3. [اگر زبان های برنامه نویسی وسایل نقلیه بودند](http://s3.crashworks.org.s3-website-us-east-1.amazonaws.com/if-programming-languages-were-vehicles/)
+4. [انتقاداتی از Unity](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2009/08/10/rough-notes-on-unity.aspx)
+5. [چطور تزریق وابستگی را به دیگران توضیح دهیم](http://java.dzone.com/articles/how-i-explained-dependency)
+6. [اسنیپت نمایش محصول با CSS](http://codyhouse.co/gem/css-product-quick-view/)
+7. [اسنیپت های CSS به درد بخور](http://www.cssflow.com/snippets)
+8. [۱۲ تا از بدترین زبان های برنامه نویسی](http://www.pixel77.com/12-bizarre-programing-languages-heard/)
+9. [چرا روش ساعت کاری برای نرم افزار نویسی جواب نمی دهد](http://bocoup.com/weblog/developer-weeks/)
+10. [باگی به وسعت خونریزی قلبی](http://blog.erratasec.com/2014/09/bash-bug-as-big-as-heartbleed.html#.VGcdaPmUeK8) 
+11. [لورد های CSS](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978) 
+12. [بازی تشخیص رنگ](http://game.ioxapp.com/color/) 
+13. [Alert جایگزین برای Alert جاوااسکریپت](http://tristanedwards.me/sweetalert) 
+14. [ویروس ساعت خوشحالی](http://happyhourvirus.com/?hg=0&nr=0) 
+15. [۵ تا از بهترین سوالات مصاحبه ای در زمینه c#](http://www.toptal.com/c-sharp/interview-questions) 
+16. [۵۰ تا از بهترین سوالات مصاحبه ای در زمینه c#](http://www.itechaleart.com/2013/05/top-50-c-interview-questions-answers_10.html) 
+17. [چک لیست تهیه یک برنامه](http://www.dotnettips.info/post/1095/%DA%86%DA%A9-%D9%84%DB%8C%D8%B3%D8%AA-%D8%AA%D9%87%DB%8C%D9%87-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-asp-net-mvc) 
+19. [آموزش Angularjs پروژه محور](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/#Introduction)
